@@ -16,7 +16,7 @@ This project is a simple **client-server chat application** built using Java **s
 ## 📁 File Structure
 
 ```
-task3/
+MultiThreadedChatApp/
 ├── ChatServer.java   # Main server program
 ├── ChatClient.java   # Client program for users
 ```
@@ -83,13 +83,3 @@ Client: Hi! How are you?
 
 ---
 
-## 🧑‍💻 Author
-
-Intern: Vishakha Kandrikar  
-Task: Task 3 – Java Programming Internship
-
----
-
-## 📜 License
-
-This project is for educational purposes as part of a Java internship.
